@@ -13,23 +13,23 @@ find your chrome here : [chrome://settings/help](chrome://settings/help)
 <br>
 ![alt text](https://github.com/varun-0007/udacity-course-auto-complete/blob/main/SS/chrome_version.png "chrome version")
 
-My version is<h2>92<h2>
+<h2>My version is 92<h2>
 
 Download web drivers here 
-  ```
-  1. [https://chromedriver.chromium.org/downloads](https://chromedriver.chromium.org/downloads)
-  2. [https://sites.google.com/a/chromium.org/chromedriver/downloads](https://sites.google.com/a/chromium.org/chromedriver/downloads)
-  ```
+```
+1. https://chromedriver.chromium.org/downloads
+2. https://sites.google.com/a/chromium.org/chromedriver/downloads
+```
 
 <h2>My version is 92 soo i have downloaded it </h2>
   
-![alt text](https://github.com/varun-0007/udacity-course-auto-complete/blob/main/SS/chrome_version.png "chrome version")
+![alt text](https://github.com/varun-0007/udacity-course-auto-complete/blob/main/SS/driver_version.png "driver version")
   
 Then 
  
 ```
 1. Copy the driver.exe file 
-2. paste this file in directory : C:\Program Files (x86)\chromedriver.exe
+2. paste this file in this directory : C:\Program Files (x86)\
 ```
 
 <h2>you have completed 70% of the work</h2>
@@ -54,4 +54,4 @@ Finally you have completed all the process !
 Doule click on that auto.py for running it or that python file using python terminal
 This will complete your course with out any errors it will auto skips videos, etc 
 
-` USE This For Educational Purpose Only! `
+  <h3 align="center">` USE This For Educational Purpose Only! `</h3>
