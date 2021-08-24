@@ -37,11 +37,11 @@ Then
 
 `Now open the auto.py in any editor like VS-code, notepad, etc`
   
-`Enter ur credentials and course link at line 10,11 & 17 | Enter the details carefully `
+`Enter ur credentials at line 10,11 and course link at 17 | Enter the details carefully `
   
 ![alt text](https://github.com/varun-0007/udacity-course-auto-complete/blob/main/SS/auto_code.png "code demo")
  
-open cmd for installing selenium drivers 
+open cmd for installing selenium drivers using the below commands
 ```
 python -m pip install selenium
 or 
@@ -52,7 +52,7 @@ or refer https://www.geeksforgeeks.org/how-to-install-selenium-in-python/
   
 Finally you have completed all the process !
   
-Doule click on that auto.py for running it or that python file using python terminal
+Doule click on that auto.py for running it or Open that python file using python terminal
 This will complete your course with out any errors it will auto skips videos, etc 
 
   <h3 align="center">` USE This For Educational Purpose Only! `</h3>
